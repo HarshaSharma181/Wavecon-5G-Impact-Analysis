@@ -94,12 +94,12 @@ These were short-validity, low-data plans designed for the pre-5G environment. T
 ## 📊 Dashboard
 
 🔗 **Live Power BI Dashboard:**
-https://lnkd.in/gpMUbEzc
+https://app.powerbi.com/view?r=eyJrIjoiZjJlNTcwOTYtNmQzNy00NGUwLWIxMWMtMmM1YzNiZDdjYzg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 🎥 Project Presentation
 
 🔗 **Presentation Video:**
-https://lnkd.in/gRQ3avsW
+https://youtu.be/YkyNDlAOgcM?si=1X-PwH4RVyj41gOX
 
 ## 🙏 Acknowledgement
 
